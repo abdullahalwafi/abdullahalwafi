@@ -3,7 +3,7 @@
 <img src="https://github.com/abdullahalwafi/abdullahalwafi/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/abdullahalwafi" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/abdullahalwafi/abdullahalwafi/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/abdullahalwafi" alt="CoDiNg RocKs"  width="60%"/><br>
 
-<p><strong>I'am Web developer and Owner Of [Adila ID](https://adila.id)
+<p><strong>I'am Web developer and Owner Of <a href="https://adila.id">Adila ID</a>
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
