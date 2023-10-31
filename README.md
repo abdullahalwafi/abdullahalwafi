@@ -69,7 +69,7 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/abdullahalwafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/abdullahalwafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/abdullahalwafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalwafi&theme=aura_dark)
+![]()
 </a>
 
 <details>
@@ -83,7 +83,7 @@ class About extends Me {
 
 **Code Cycle**<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalwafi&theme=aura_dark" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
