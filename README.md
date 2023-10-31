@@ -6,11 +6,11 @@
 <p><strong>I'am Web developer and Owner Of [Adila ID](https://adila.id)
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.abdullahalwafi.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=abdullahalwafi&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%abdullahalwafi&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/abdullahalwafi-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/abdullahalwafi-grey?style=flat&logo=telegram)](https://t.me/abdullahalwafi) <br>
 
 </div>
 
