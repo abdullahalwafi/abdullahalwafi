@@ -65,20 +65,15 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/abdullahalwafi/abdullahalwafi/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
+
 <a  href="https://github.com/abdullahalwafi">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalwafi&theme=aura_dark" >
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahalwafi&theme=aura_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahalwafi&theme=aura_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahalwafi&theme=aura_dark" width="32.5%">
 
 </a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalwafi&theme=aura_dark" >
-
-</details>
   
 <hr></hr>
 
